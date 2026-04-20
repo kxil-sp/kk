@@ -1,1 +1,7 @@
-
+name: dice-arena-solver
+description: Auto solver for dice arena challenge
+connection:
+  host: 154.57.164.82
+  port: 30840
+script: speedrun.py
+timeout: 30
